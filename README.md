@@ -19,7 +19,7 @@ The arguments of the python function are:
 
 You can also write as the original vscode syntax $1 for the first group $2 for the second one... instead of y[0], y[1]...
 
-![demo](/images/demo.gif)
+![demo](https://github.com/pauvretimo/python-replace/blob/main/images/demo.gif)
 
 ## Requirements
 
